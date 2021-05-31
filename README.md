@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saniltalaulikar. I have worked in DevOps, Kubernetes and Java in a professional capacity
+- 👋 Hi, I’m @saniltalaulikar. I have worked in Java/J2ee development of Cloud Native/On-premise applications u  in a professional capacity
 - 🌱 I’m currently learning Blockchain and smart contract development
 - 📫 How to reach me:<br>
     <t>Gmail: saniltalaulikar@gmail.com<br>
